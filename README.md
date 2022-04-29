@@ -1,4 +1,4 @@
-# Instalación DOCKER con ALPI
+# Instalación DOCKER con ALPINE
 
 ## Instrucciones
 
