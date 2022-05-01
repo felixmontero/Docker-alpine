@@ -57,3 +57,16 @@
 ![image](https://user-images.githubusercontent.com/91874727/166008676-751a5ecb-5f5c-40e9-aa09-462c08611500.png)
 
 + ¡¡¡¡POR FIN TENDRÍAMOS ALPINE INSTALADO!!!!
+### Tercera Parte
+#### Ejecutamos Docker Hello World
++ Añadimos el comando 
+![image](https://user-images.githubusercontent.com/91874727/166163128-fc78594e-dbc1-4a99-a430-3ca94093ff0b.png)
++ Posteriormente:
+![image](https://user-images.githubusercontent.com/91874727/166163162-f9e74a0b-e95f-463a-a3ed-b7c3f7f2aa5e.png)
++ Finalmente se ejecutaría el Hello World
+![image](https://user-images.githubusercontent.com/91874727/166163313-f036b498-b469-4ab4-a4ca-5a5661b52588.png)
++ Vídeos de valor:
+<a href="https://youtu.be/ywpJx5aK44Y">![image](https://user-images.githubusercontent.com/91874727/166163516-03bc43e6-d173-4c13-9312-90ebd6d52ff0.png)
+</a>
+<a href="https://youtu.be/E7zJTzf0pWA"> ![image](https://user-images.githubusercontent.com/91874727/166163553-5e6230f8-826e-44e2-ae12-5900a1bbadea.png)<a>
+
